@@ -76,10 +76,7 @@
     <div class="card">
       <img src="images/![459190780_1441861106450145_8734015797691044068_n](https://github.com/user-attachments/assets/b274e033-de05-495d-b399-a1273d6c6919)
 " alt="Project 1">
-      <h3>Project Name 1</h3>
-      <p>Short description of the project...</p>
-    </div>
-    <!-- About Section --
+      <!-- About Section --
     <section id="about" class="container">
         <h2 class="section-title">About Me</h2>
         <p>Hi, I am Serrada, Janvie B. living in lipit tommeng san fabian pangasian. and I'am 20yr old an studying from Phinma Daguapan ].</p>
