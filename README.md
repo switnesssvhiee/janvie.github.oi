@@ -130,6 +130,3 @@ Outcome: The tool was successfully deployed and adopted by several businesses, a
     <footer>
         <p>&copy; 2024 Your Name. All rights reserved.</p>
     </footer>
-
-</body>
-</html>
