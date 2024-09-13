@@ -96,19 +96,19 @@
     <section id="skills" class="container">
         <h2 class="section-title">Skills</h2>
         <ul class="skills-list">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
+            <li>GYM</li>
+            <li>COOKING</li>
+            <li>CODING OTHER</li>
             <li>React</li>
-            <li>Python</li>
+            <li>READING</li>
         </ul>
     </section>
 
     <!-- Contact Section -->
     <section id="contact" class="container">
         <h2 class="section-title">Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>Phone: +123456789</p>
+        <p>Email: janvieserrada@gmail.com</p>
+        <p>Phone: 09107445594</p>
     </section>
 
     <!-- Footer -->
