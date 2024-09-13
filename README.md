@@ -83,8 +83,12 @@
     <section id="projects" class="container">
         <h2 class="section-title">Projects</h2>
         <div class="project-item">
-            <h3>Project 1: [Portfolio Website]</h3>
-            <p>Description of the project. What you worked on, the technologies used, and the outcome of the project.</p>
+            <h3>Project 1: [CraftedCanvas]</h3>
+            <p>Description of the project. CraftedCanvas is a creative and professional portfolio website that allows individuals to showcase their skills, projects, and personal brand in a visually appealing and organized manner. It reflects the idea of craftsmanship and artistic curation, where each project is presented like a work of art on a canvas.  Design Elements:
+Theme: Minimalistic, elegant, and clean design with a focus on showcasing your work like an art gallery. Think of a blank canvas where every project is painted in detail.
+Color Palette: Soft neutral colors (white, beige, gray) paired with a pop of accent colors (such as dark blue, green, or gold) to bring attention to important elements.
+Typography: Use modern, easy-to-read fonts like Roboto or Lora for headings, and Open Sans or Raleway for body text.
+Layout: Grid-based layout with plenty of white space to ensure the focus remains on your projects</p>
         </div>
         <div class="project-item">
             <h3>Project 2: [Social Media Analytics Tool]</h3>
