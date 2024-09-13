@@ -88,7 +88,14 @@
         </div>
         <div class="project-item">
             <h3>Project 2: [Social Media Analytics Tool]</h3>
-            <p>Description of the project. What you worked on, the technologies used, and the outcome of the project.</p>
+            <p>Description of the project.
+Overview: Developed a comprehensive analytics tool that tracks and analyzes key metrics across multiple social media platforms, helping businesses monitor their performance, audience engagement, and trends over time.
+
+Role: Lead Developer – I was responsible for designing the database schema, implementing data scraping mechanisms, and developing the user dashboard for real-time analytics.
+
+Technologies Used: Python (for web scraping), JavaScript (React for front-end), Node.js (back-end API), MongoDB (database), D3.js (for data visualization).
+
+Outcome: The tool was successfully deployed and adopted by several businesses, allowing them to reduce manual data collection time by 70% and improve their social media strategy by identifying key trends and insights in audience behavior. It enabled the users to visualize data from multiple platforms such as Twitter, Instagram, and Facebook in a single dashboard, providing real-time insights and performance tracking.</p>
         </div>
     </section>
 
