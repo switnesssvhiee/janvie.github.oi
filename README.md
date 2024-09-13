@@ -83,11 +83,11 @@
     <section id="projects" class="container">
         <h2 class="section-title">Projects</h2>
         <div class="project-item">
-            <h3>Project 1: [Project Title]</h3>
+            <h3>Project 1: [Portfolio Website]</h3>
             <p>Description of the project. What you worked on, the technologies used, and the outcome of the project.</p>
         </div>
         <div class="project-item">
-            <h3>Project 2: [Project Title]</h3>
+            <h3>Project 2: [Social Media Analytics Tool]</h3>
             <p>Description of the project. What you worked on, the technologies used, and the outcome of the project.</p>
         </div>
     </section>
