@@ -71,27 +71,14 @@
             <a href="#contact">Contact</a>
         </nav>
     <section id="portfolio">
-  <h2>My Work</h2>
+  <h2>Image</h2>
   <div class="grid">
     <div class="card">
-      <img src="images/project1.jpg" alt="Project 1">
+      <img src="images/![459190780_1441861106450145_8734015797691044068_n](https://github.com/user-attachments/assets/b274e033-de05-495d-b399-a1273d6c6919)
+" alt="Project 1">
       <h3>Project Name 1</h3>
       <p>Short description of the project...</p>
     </div>
-    <div class="card">
-      <img src="images/project2.jpg" alt="Project 2">
-      <h3>Project Name 2</h3>
-      <p>Short description of the project...</p>
-    </div>
-    <div class="card">
-      <img src="images/project3.jpg" alt="Project 3">
-      <h3>Project Name 3</h3>
-      <p>Short description of the project...</p>
-    </div>
-  </div>
-</section>
-
-
     <!-- About Section --
     <section id="about" class="container">
         <h2 class="section-title">About Me</h2>
