@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,7 +75,7 @@
     <!-- About Section --
     <section id="about" class="container">
         <h2 class="section-title">About Me</h2>
-        <p>Hi, I am Serrada, Janvie B. a passionate [Your Profession/Title] with expertise in coding . I have worked on various projects that demonstrate my abilities in [Field of Expertise].</p>
+        <p>Hi, I am Serrada, Janvie B. living in lipit tommeng san fabian pangasian. and I'am 20yr old an studying from Phinma Daguapan ].</p>
     </section>
 
     <!-- Projects Section -->
